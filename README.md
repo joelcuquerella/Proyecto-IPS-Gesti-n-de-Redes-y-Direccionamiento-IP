@@ -34,11 +34,6 @@ Este proyecto ha sido desarrollado como parte de las prácticas del ciclo de Adm
 - Búsqueda de datos específicos.
 - Diseño modular con cabecera y pie de página comunes (`header.php` y `footer.php`).
 
-📎 **Notas:**
-- Proyecto realizado como práctica de evaluación interna, no como entrega final.
-- Pendiente de revisión y siguientes pasos por parte del tutor.
-- Desarrollado en colaboración con el compañero asignado en el centro de prácticas.
-
 ---
 
 🧑‍💻 **Autores:**
