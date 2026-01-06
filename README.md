@@ -12,19 +12,33 @@ Este proyecto ha sido desarrollado como parte de las prácticas del ciclo de Adm
 
 🗂️ **Estructura del proyecto:**
 
-/ ├── indexip.php
-├── redes.php
-├── vlans.php
-├── nombres_dispositivos.php
-├── insertar_red.php
-├── insertar_vlan.php
-├── insertar_dispositivo.php
-├── buscar.php
-├── db.php
-├── header.php
-├── footer.php
-├── style.css
+Estructura generada con `find . -maxdepth 3 -not -path './.git*'`:
+
+```
+.
+├── config
+│   ├── .env.example
+│   └── config.php
+├── public
+│   ├── buscar.php
+│   ├── insertar_dispositivo.php
+│   ├── insertar_red.php
+│   ├── insertar_vlan.php
+│   ├── indexip.php
+│   ├── nombres_dispositivos.php
+│   ├── redes.php
+│   ├── style.css
+│   └── vlans.php
+├── src
+│   ├── db.php
+│   ├── footer.php
+│   └── header.php
 └── README.md
+```
+
+📡 **Publicación del código:**
+
+Este repositorio se mantiene de forma local dentro de este entorno de trabajo y no se ha subido a GitHub. Si quieres publicarlo, bastaría con crear un repositorio remoto y ejecutar `git remote add origin <URL>` seguido de `git push -u origin <rama>`.
 
 
 ⚙️ **Funciones implementadas:**
